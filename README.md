@@ -2,7 +2,9 @@
 
 Order groceries from [Blinkit](https://blinkit.com) by talking to Claude (or any MCP client).
 
-> "Get me two Amul Taaza and a loaf of bread, deliver to Indiranagar."
+![One sentence in, a filled Blinkit cart out](assets/demo.gif)
+
+<sub>A real run against blinkit.com, sped up. Recorded on our scripted browser engine; on Browser Use (below) each step takes longer.</sub>
 
 Claude sets your location, searches, fills the cart and shows you the bill. You pay yourself, through
 a live link to the browser. **It never pays on its own.**
