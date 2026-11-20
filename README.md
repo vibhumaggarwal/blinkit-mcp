@@ -75,6 +75,10 @@ node selftest.mjs --live   # a real location + search on Blinkit (uses Browser U
 - State lives in `~/.blinkit-mcp` (override with `BLINKIT_MCP_HOME`).
 - Unofficial. Not affiliated with Blinkit or Zomato.
 
+## Who made this
+
+Built by the team behind [Hunch](https://texthunch.com), an AI friend you text on iMessage.
+
 ## License
 
 MIT
